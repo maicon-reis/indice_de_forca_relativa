@@ -1,0 +1,1 @@
+# indice_de_forca_relativa
